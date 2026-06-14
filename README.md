@@ -17,4 +17,4 @@
 
 Open to internships, collaborations, and mentorship in accounting, audit, cybersecurity, and tech.
 
-Reach out via [LinkedIn]https://www.linkedin.com/in/madelynhadzic/
+Reach out via https://www.linkedin.com/in/madelynhadzic/
