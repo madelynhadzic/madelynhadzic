@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Madelyn 👋
 
-<!--
-**madelynhadzic/madelynhadzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Accounting + Computer Science student at Pitt with a strong foundation in analytics and a passion for using technology to solve business problems.
 
-Here are some ideas to get you started:
+🚀 Currently focused on cybersecurity, risk management/advisory, IT audit, and product management 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+
+- Accounting, audit, and internal controls
+- Cybersecurity and risk management
+- IT audit and process improvement
+- Python, SQL, Java, Javascipt, HTML/CSS
+- Excel, Tableu, PowerBI
+- Communication, collaboration, and leadership
+
+💬 Let's connect!
+
+Open to internships, collaborations, and mentorship in accounting, audit, cybersecurity, and tech.
+
+Reach out via [LinkedIn]https://www.linkedin.com/in/madelynhadzic/
